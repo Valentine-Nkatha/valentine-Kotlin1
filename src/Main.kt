@@ -3,11 +3,11 @@
 fun main() {
     var name: String = "Joseph Kamau"
     println(name)
-    var age: Byte= 23
+    var age: Byte= 30
     println(age)
     var contacts: String="0701815843"
     println(contacts)
-    var weight: Byte=65
+    var weight: Byte=75
     println(weight)
     val Kenyan: Boolean=true
     println(Kenyan)
