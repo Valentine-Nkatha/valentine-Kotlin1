@@ -3,7 +3,7 @@
 fun main() {
     var name: String = "Joseph Kamau"
     println(name)
-    var age: Byte= 30
+    var age: Byte= 36
     println(age)
     var contacts: String="0701815843"
     println(contacts)
